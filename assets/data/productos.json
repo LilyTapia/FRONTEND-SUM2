@@ -1,0 +1,306 @@
+[
+  {
+    "id": "kingdom-come-deliverance-2",
+    "title": "KINGDOM COME: DELIVERANCE 2",
+    "description": "RPG de acción ambientado en la Bohemia del siglo XV.",
+    "image": {
+      "src": "assets/img/kingdom_come_deliverance_2.jpg",
+      "alt": "Portada del juego Kingdom Come: Deliverance 2",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-kingdom.html#from-productos",
+    "price": 29990,
+    "featured": { "order": 1, "detailUrl": "producto-kingdom.html#from-index" },
+    "details": {
+      "fullTitle": "Kingdom Come: Deliverance 2",
+      "summary": "RPG de acción ambientado en la Bohemia del siglo XV.",
+      "specs": [
+        { "label": "Género", "value": "RPG de acción" },
+        { "label": "Plataformas", "value": "PC, PlayStation 5, Xbox Series" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña / Impresiones",
+      "description": [
+        "Secuela que redobla su apuesta por el <strong>realismo histórico</strong>: misiones con múltiples rutas, sistemas de supervivencia (comida, descanso, fatiga) y un <strong>combate cuerpo a cuerpo exigente</strong> donde el equipo y las heridas importan. La narrativa mantiene el foco en lo cotidiano y en las consecuencias de tus actos, premiando la planificación y el juego pausado."
+      ],
+      "highlights": {
+        "pros": "inmersión altísima; decisiones con consecuencias; misiones abiertas; progresión \"orgánica\".",
+        "cons": "curva de aprendizaje dura; combate poco accesible al inicio; ritmo pausado."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,5/5)",
+        "detail": "Ideal para quienes buscan simulación medieval y roleo profundo."
+      }
+    }
+  },
+  {
+    "id": "donkey-kong-bonanza",
+    "title": "DONKEY KONG BONANZA",
+    "description": "Plataformas y aventuras en 3D con acción.",
+    "image": {
+      "src": "assets/img/Donkey_kong_bananza.png",
+      "alt": "Portada del juego Donkey Kong Bonanza",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-donkey.html#from-productos",
+    "price": 34990,
+    "featured": { "order": 2, "detailUrl": "producto-donkey.html#from-index" },
+    "details": {
+      "fullTitle": "Donkey Kong Bonanza",
+      "summary": "Plataformas y aventuras en 3D con acción.",
+      "specs": [
+        { "label": "Género", "value": "Plataformas / Aventura" },
+        { "label": "Plataforma", "value": "Nintendo Switch 2" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Una entrega de <strong>plataformas 3D</strong> de ritmo ágil con niveles verticales, muchos secretos y jefes creativos. Los controles se sienten precisos y el diseño invita a <strong>repetir niveles</strong> para completar coleccionables y rutas alternativas. Brilla especialmente en la variedad de biomas y en la creatividad de los desafíos."
+      ],
+      "highlights": {
+        "pros": "control pulido; niveles rejugables; buena variedad de desafíos; jefes memorables.",
+        "cons": "cámara caprichosa en zonas cerradas; picos de dificultad; historia muy simple."
+      },
+      "rating": {
+        "label": "★★★★☆ (4/5)",
+        "detail": "Ideal para fans de plataformas coloridas con alta rejugabilidad."
+      }
+    }
+  },
+  {
+    "id": "clair-obscur-expedition-33",
+    "title": "CLAIR OBSCUR: EXPEDITION 33",
+    "description": "RPG inspirado en la Belle Époque.",
+    "image": {
+      "src": "assets/img/Clair_obscur.jpg",
+      "alt": "Portada del juego Clair Obscur: Expedition 33",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-expedition33.html#from-productos",
+    "price": 24990,
+    "featured": { "order": 3, "detailUrl": "producto-expedition33.html#from-index" },
+    "details": {
+      "fullTitle": "Clair Obscur: Expedition 33",
+      "summary": "RPG inspirado en la Belle Époque.",
+      "specs": [
+        { "label": "Género", "value": "RPG" },
+        { "label": "Plataformas", "value": "PC, PlayStation 5, Xbox Series" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "RPG con estética <strong>Belle Époque</strong> y un combate por turnos con <strong>acciones en tiempo real</strong> (bloqueos, parries, disparos precisos) que premian el timing. Destacan su dirección de arte onírica, la banda sonora y unos jefes exigentes. La construcción de equipo ofrece <strong>sinergias interesantes</strong> entre habilidades."
+      ],
+      "highlights": {
+        "pros": "identidad visual única; combate con buen ritmo; jefes desafiantes; personalización efectiva.",
+        "cons": "curva de aprendizaje en el timing; algunos tramos con backtracking; dificultad irregular."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,3/5)",
+        "detail": "Ideal para amantes de los RPG tácticos con estilo artístico fuerte."
+      }
+    }
+  },
+  {
+    "id": "final-fantasy-vii-rebirth",
+    "title": "FINAL FANTASY VII REBIRTH",
+    "description": "Acción RPG para PlayStation 5 y PC.",
+    "image": {
+      "src": "assets/img/Final_fantasy_VII_Rebirth.jpg",
+      "alt": "Portada del juego Final Fantasy VII Rebirth",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-ff7r.html#from-productos",
+    "price": 59990,
+    "details": {
+      "fullTitle": "Final Fantasy VII Rebirth",
+      "summary": "Acción RPG que continúa la aventura fuera de Midgar.",
+      "specs": [
+        { "label": "Género", "value": "Acción RPG" },
+        { "label": "Plataformas", "value": "PlayStation 5, PC" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Amplía el Remake con regiones más abiertas, un sistema de combate que mezcla <strong>acción + ATB</strong> y <strong>sinergias de equipo</strong> muy satisfactorias. Ofrece contenido secundario generoso, grandes set pieces y momentos emocionales potentes con el grupo. La exploración en chocobo y los minijuegos aportan variedad."
+      ],
+      "highlights": {
+        "pros": "combate profundo y vistoso; química del elenco; mundo amplio con muchas actividades.",
+        "cons": "algunas secundarias se sienten de relleno; ritmo irregular en el tramo medio; minijuegos no para todos."
+      },
+      "rating": {
+        "label": "★★★★ (4,7/5)",
+        "detail": "Ideal para quienes disfrutan de RPG de acción con gran narrativa y espectáculo."
+      }
+    }
+  },
+  {
+    "id": "elden-ring",
+    "title": "ELDEN RING",
+    "description": "Acción RPG de mundo abierto.",
+    "image": {
+      "src": "assets/img/Elden_Ring.webp",
+      "alt": "Portada del juego Elden Ring",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-eldenring.html#from-productos",
+    "price": 49990,
+    "details": {
+      "fullTitle": "Elden Ring",
+      "summary": "Acción RPG de mundo abierto en las Tierras Intermedias.",
+      "specs": [
+        { "label": "Género", "value": "Acción RPG" },
+        { "label": "Plataformas", "value": "PlayStation 5, Xbox Series, PC" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Un mundo abierto <strong>interconectado</strong> que premia la exploración y la curiosidad. Combate exigente, jefes memorables y una libertad enorme para construir tu personaje. La dirección de arte y la música elevan cada región a una experiencia única."
+      ],
+      "highlights": {
+        "pros": "exploración sobresaliente; variedad de builds; jefes épicos; arte impresionante.",
+        "cons": "dificultad alta; escasa guía puede abrumar."
+      },
+      "rating": {
+        "label": "★★★★½ (4,8/5)"
+      }
+    }
+  },
+  {
+    "id": "marvels-spider-man-2",
+    "title": "MARVEL’S SPIDER-MAN 2",
+    "description": "Acción y aventura en Nueva York.",
+    "image": {
+      "src": "assets/img/Marvels_Spider-Man_2.avif",
+      "alt": "Portada del juego Marvel’s Spider-Man 2",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-spiderman2.html#from-productos",
+    "price": 59990,
+    "details": {
+      "fullTitle": "Marvel’s Spider-Man 2",
+      "summary": "Acción y aventura con Peter y Miles en Nueva York.",
+      "specs": [
+        { "label": "Género", "value": "Acción / Aventura" },
+        { "label": "Plataformas", "value": "PlayStation 5" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Desplazarse por la ciudad es <strong>puro placer</strong>. El combate mantiene el ritmo ágil y las nuevas habilidades añaden variedad. La historia brilla por la química del elenco y varias secuencias espectaculares."
+      ],
+      "highlights": {
+        "pros": "balance entre historia y acción; movimiento exquisito; jefes con personalidad.",
+        "cons": "actividades secundarias repetitivas; exclusivo de una plataforma."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,6/5)"
+      }
+    }
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "title": "MARIO KART 8 DELUXE",
+    "description": "Carreras multijugador llenas de ítems.",
+    "image": {
+      "src": "assets/img/Mario_Kart_8_Deluxe.avif",
+      "alt": "Portada del juego Mario Kart 8 Deluxe",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-mariokart8.html#from-productos",
+    "price": 44990,
+    "details": {
+      "fullTitle": "Mario Kart 8 Deluxe",
+      "summary": "Carreras familiares con poderosos ítems y muchos circuitos.",
+      "specs": [
+        { "label": "Género", "value": "Carreras" },
+        { "label": "Plataformas", "value": "Nintendo Switch" },
+        { "label": "Modo", "value": "Multijugador local/online" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Divertido desde la primera carrera. Gran variedad de pistas y karts, multijugador sólido y retos para todos los niveles. Perfecto para reuniones y partidas rápidas."
+      ],
+      "highlights": {
+        "pros": "contenido enorme; multijugador excelente; controles accesibles.",
+        "cons": "factor azar de ítems; IA irregular a veces."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,5/5)"
+      }
+    }
+  },
+  {
+    "id": "the-witcher-3-wild-hunt",
+    "title": "THE WITCHER 3: WILD HUNT",
+    "description": "RPG de mundo abierto con gran narrativa.",
+    "image": {
+      "src": "assets/img/The_Witcher_3_Wild_Hunt.avif",
+      "alt": "Portada del juego The Witcher 3: Wild Hunt",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-witcher3.html#from-productos",
+    "price": 39990,
+    "details": {
+      "fullTitle": "The Witcher 3: Wild Hunt",
+      "summary": "RPG de mundo abierto con gran foco narrativo.",
+      "specs": [
+        { "label": "Género", "value": "RPG" },
+        { "label": "Plataformas", "value": "PlayStation 5, Xbox Series, Nintendo Switch, PC" },
+        { "label": "Modo", "value": "Un jugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Historia envolvente, misiones secundarias memorables y un mundo rico en detalles. La progresión y el desarrollo de personajes permiten distintos estilos de juego."
+      ],
+      "highlights": {
+        "pros": "narrativa excelente; quest secundarias de calidad; mundo inmersivo.",
+        "cons": "curva de entrada; sistemas densos para novatos."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,7/5)"
+      }
+    }
+  },
+  {
+    "id": "minecraft",
+    "title": "MINECRAFT",
+    "description": "Construcción y supervivencia sandbox.",
+    "image": {
+      "src": "assets/img/Minecraft.avif",
+      "alt": "Portada del juego Minecraft",
+      "width": 640,
+      "height": 360
+    },
+    "detailUrl": "producto-minecraft.html#from-productos",
+    "price": 26990,
+    "details": {
+      "fullTitle": "Minecraft",
+      "summary": "Construcción, supervivencia y creatividad sin límites.",
+      "specs": [
+        { "label": "Género", "value": "Sandbox / Supervivencia" },
+        { "label": "Plataformas", "value": "PlayStation, Xbox, Nintendo Switch, PC" },
+        { "label": "Modo", "value": "Un jugador / Multijugador" }
+      ],
+      "reviewTitle": "Reseña",
+      "description": [
+        "Un lienzo infinito para experimentar y crear. Modo creativo para construir libremente y supervivencia para explorar, craftear y combatir. La comunidad y los mods alargan su vida útil."
+      ],
+      "highlights": {
+        "pros": "libertad total; enorme comunidad; rejugabilidad altísima.",
+        "cons": "gráficos simples; requiere proponerse objetivos propios."
+      },
+      "rating": {
+        "label": "★★★★☆ (4,4/5)"
+      }
+    }
+  }
+]

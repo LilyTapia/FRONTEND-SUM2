@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Semana de Estrenos RPG",
+    "fecha": "2025-05-22",
+    "descripcion": "Nuevos mundos se abren con descuentos de hasta 40% en sagas de rol.",
+    "destacado": true
+  },
+  {
+    "titulo": "Competencia de eSports",
+    "fecha": "2025-05-25",
+    "descripcion": "Inscríbete en nuestro torneo online y gana accesorios para tu consola.",
+    "destacado": false
+  },
+  {
+    "titulo": "Preventa exclusiva",
+    "fecha": "2025-05-30",
+    "descripcion": "Reserva títulos AAA y recibe contenido descargable sin costo adicional.",
+    "destacado": true
+  }
+]
